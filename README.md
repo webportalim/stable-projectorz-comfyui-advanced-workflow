@@ -77,6 +77,8 @@ IC-Light → DSINE Normal Map
 - SDXL Lightning models: keep CFG at 2.0-3.0, steps 12-14
 
 ## Credits
-
-Workflow developed with assistance from Claude (Anthropic).
 Special thanks to Igor (Stable Projectorz developer https://stableprojectorz.com/ ) and the ComfyUI community.
+
+
+Workflow developed with assistance from Claude Sonnet 4.6 (Anthropic).
+
