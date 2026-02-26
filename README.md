@@ -6,7 +6,8 @@ Advanced ComfyUI workflow for Stable Projectorz — One-click 4K game asset pipe
 
 > I spent a long time trying to get Stable Projectorz working with ComfyUI — couldn't find working solutions anywhere. Finally got it working AND pushed it to the next level. Sharing the full workflow for free. Hope it helps the community!
 
-![Preview](preview.png)
+![Preview](stable-projectorz-comfyui-advanced-workflow.jpg
+)
 
 ## What's included
 
