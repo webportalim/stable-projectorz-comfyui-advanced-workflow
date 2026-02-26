@@ -76,6 +76,18 @@ IC-Light → DSINE Normal Map
 - For characters: bypass Depth ControlNet, use OpenPose instead
 - SDXL Lightning models: keep CFG at 2.0-3.0, steps 12-14
 
+- ## ⚠️ Important Notes
+
+All default settings in this workflow are optimized for **WildcardXL Lightning** model.
+If you use a different SDXL model, you may need to adjust:
+- CFG (Lightning models use 2.0-3.0, standard SDXL uses 5.0-8.0)
+- Steps (Lightning: 12-14, standard SDXL: 20-30)
+- Sampler/Scheduler settings
+- Eular/sgm_uniform or simple
+
+For the Depth ControlNet, **`control-lora-depth-rank256.safetensors`** is recommended.
+Other SDXL depth models may work but results may vary.
+
 ## Credits
 Special thanks to Igor (Stable Projectorz developer https://stableprojectorz.com/ ) and the ComfyUI community.
 
